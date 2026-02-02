@@ -1,0 +1,5 @@
+# Pergunta 752
+
+![Imagem da Pergunta 752](image.jpg)
+
+Escreva o conteúdo da resposta aqui.

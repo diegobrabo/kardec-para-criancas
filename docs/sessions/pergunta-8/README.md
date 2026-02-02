@@ -1,0 +1,5 @@
+# Pergunta 8
+
+![Imagem da Pergunta 8](image.jpg)
+
+Escreva o conteúdo da resposta aqui.

@@ -1,0 +1,5 @@
+# Pergunta 652
+
+![Imagem da Pergunta 652](image.jpg)
+
+Escreva o conteúdo da resposta aqui.
